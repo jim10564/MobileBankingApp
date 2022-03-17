@@ -4,13 +4,13 @@
 
 # Objective
 
- The objective of the Final Programming Project (in lieu of Exam3) in CS-242 Data Structures is to apply the concepts of Data Structures learnt during the course and implement real world application through Java Programming language. The students will develop a Java programming project that will not only incorporate the data structures concepts learned during the CS-242 course but also helps students explore and apply Programming skills and data structure concepts beyond that were learned during the course. This would entail looking up external resources for utilizing additional Java classes and interfaces, abstract data types, and their associated methods, that maybe required for the completion of the Project.  
+ The objective of the Final Programming Project (in lieu of Exam3) in CS-242 Data Structures is to apply the concepts of Data Structures learned during the course and implement real world application through Java Programming language. The students will develop a Java programming project that will not only incorporate the data structures concepts learned during the CS-242 course but also helps students explore and apply Programming skills and data structure concepts beyond that were learned during the course. This would entail looking up external resources for utilizing additional Java classes and interfaces, abstract data types, and their associated methods, that maybe required for the completion of the Project.  
 
 ### Program Description
 
 The list of tentative Final Project Topics has been provided in the accompanying document, ‘*CS242 Final Project Topics.docx’*.
 
-Students have to work individually on the Final Project. A team of 2 students can be considered if the project decided upon is big enough and necessitates the involvement of 2 persons. Each student needs to necessarily code a minimum of 3 classes whether working individually or in a team, else the **Project is to be done individually.**
+Students have to work individually on the Final Project. A team of 2 students can be considered if the project decided upon is big enough and necessitates the involvement of 2 people. Each student needs to necessarily code a minimum of 3 classes whether working individually or in a team, else the **Project is to be done individually.**
 
 **A prior discussion and approval on the Project Topic is required from the instructor, before the students begin work on their Final Project.**
 
