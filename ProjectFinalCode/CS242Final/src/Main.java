@@ -4,7 +4,7 @@ import java.util.*;
  * @date 12/14/2020
  * @author Jim Spisto
  * @version 1
- * Represents an mobile banking application
+ * Represents a mobile banking application
  */
 public class Main {
     int count = 1;
@@ -17,7 +17,7 @@ public class Main {
     /**
      * Checks whether a bank account  with account number
      * that matches param (num), exists on the accountList
-     * returns true is account exists, otherwise returns false
+     * returns true if account exists, otherwise returns false
      * @param num
      * @return boolean
      */
